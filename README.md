@@ -1,16 +1,14 @@
-## Hi there 👋
+### 🌟 Hello everyone
+Hi there! I’m a free spirit navigating life with an open heart, an adventurous mind, and a deep love for music. 🎶✨  
+To me, freedom is living authentically—discovering new rhythms, creating meaningful connections, and finding harmony in every moment. 
 
-<!--
-**eliocho19/eliocho19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on nothing 
+- 🌱 I’m currently learning design
+- 👯 I’m looking forward to collaborating with a web developer to create something amazing together
+- 💬 Ask me about my music taste ;)
+- 📫 How to reach me: pleasedon'treachme.com
+- 😄 Pronouns: Bard
+- ⚡ Fun fact: I'm drinking right now as I write this
 -->
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:choelleo719@gmail.com)](mailto:choelleo719@gmail.com)
