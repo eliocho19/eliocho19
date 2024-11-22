@@ -6,7 +6,8 @@ To me, freedom is living authentically—discovering new rhythms, creating meani
 Fun fact: I'm drinking right now as I write this
 
 ## 💻 My Tech Stack
-- Languages: Python
+- Languages: Python ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)
+
 - Tools: GitHub, VS Code, Logic Pro ,Ableton, PremierePro, AfterEffect, PhotoShop, Illustrator
 
 ## 🎶 Projects
