@@ -7,7 +7,7 @@ Fun fact: I'm drinking right now as I write this
 
 ## 💻 My Tech Stack
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliocho19&hide=html,css&layout=compact)
-- Tools: GitHub, VS Code, Logic Pro ,Ableton, PremierePro, AfterEffect, PhotoShop, Illustrator
+- Tools:  GitHub, VS Code, Maya, Logic Pro ,Ableton, PremierePro, AfterEffect, PhotoShop, Illustrator
 
 ## 🎶 Projects
 - I have participated in some projects as a sound mixer and mastering engineer.
