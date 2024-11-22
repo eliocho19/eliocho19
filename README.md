@@ -1,4 +1,4 @@
-# Hi, I'm [Moonsu Cho]! 👋
+# Hi, I'm Moonsu Cho 👋
 
 ## 🎨 About Me
 Hi there! I’m a free spirit navigating life with an open heart, an adventurous mind, and a deep love for music. 🎶✨  
